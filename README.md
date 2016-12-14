@@ -1,2 +1,1 @@
-# hello-world
-Tutorial repo
+A bit about myself
